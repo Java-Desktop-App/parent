@@ -4,6 +4,7 @@
 name: Maven Package win
 
 on:
+  workflow_dispatch:
   release:
     types: [created]
 
