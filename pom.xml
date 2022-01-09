@@ -33,7 +33,7 @@
     </scm>
     <developers>
         <developer>
-            <name>jast90</name>
+            <name>zhangzhiwen</name>
             <id>zhangzhiwen</id>
             <email>zhangz_w45@163.com</email>
             <roles>
@@ -46,7 +46,7 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://github.com/Java-Desktop-App/apps</url>
+            <url>https://maven.pkg.github.com/Java-Desktop-App/apps</url>
         </repository>
     </distributionManagement>
 </project>
