@@ -46,12 +46,12 @@
     </distributionManagement>
     <repositories>
         <repository>
-            <id>github</id>
+            <id>github-parent</id>
             <name>GitHub OWNER Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/Java-Desktop-App/parent</url>
         </repository>
         <repository>
-            <id>github</id>
+            <id>github-component</id>
             <name>GitHub OWNER Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/Java-Desktop-App/component</url>
         </repository>
