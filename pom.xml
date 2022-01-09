@@ -22,8 +22,8 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/Java-Desktop-App/apps</url>
-        <connection>scm:git:https://github.com/Java-Desktop-App/apps.git</connection>
+        <url>https://github.com/Java-Desktop-App/parent</url>
+        <connection>scm:git:https://github.com/Java-Desktop-App/parent.git</connection>
         <tag>HEAD</tag>
     </scm>
     <developers>
@@ -41,7 +41,7 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Java-Desktop-App/apps</url>
+            <url>https://maven.pkg.github.com/Java-Desktop-App/parent</url>
         </repository>
     </distributionManagement>
     <repositories>
