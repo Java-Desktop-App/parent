@@ -33,7 +33,7 @@
     </scm>
     <developers>
         <developer>
-            <name>zhangzhiwen</name>
+            <name>jast90</name>
             <id>zhangzhiwen</id>
             <email>zhangz_w45@163.com</email>
             <roles>
@@ -42,16 +42,11 @@
             <timezone>+8</timezone>
         </developer>
     </developers>
-    <profiles>
-        <profile>
+    <distributionManagement>
+        <repository>
             <id>github</id>
-            <distributionManagement>
-                <repository>
-                    <id>github</id>
-                    <name>GitHub OWNER Apache Maven Packages</name>
-                    <url>https://github.com/Java-Desktop-App/apps</url>
-                </repository>
-            </distributionManagement>
-        </profile>
-    </profiles>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://github.com/Java-Desktop-App/apps</url>
+        </repository>
+    </distributionManagement>
 </project>
